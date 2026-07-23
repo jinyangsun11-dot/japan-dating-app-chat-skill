@@ -1,0 +1,4 @@
+interface:
+  display_name: "Japan Dating App Chat"
+  short_description: "Write confident, natural Japanese dating-app messages"
+  default_prompt: "Use $japan-dating-app-chat to draft the best send-ready Japanese reply for this dating-app conversation."
